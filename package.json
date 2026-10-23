@@ -1,0 +1,11 @@
+﻿{
+  "name": "tp5-chonibare-manal-queenbee",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "tp5": "node --test ./alerte.spec.js",
+    "demo": "node ./demo.js",
+    "lint:archi": "node ./scripts/lint-archi.js"
+  }
+}
